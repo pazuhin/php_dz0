@@ -1,12 +1,8 @@
 <?php
-/**
- * @file
- * Description of what this module (or file) is doing.
- */
 const TEST_CONSTANTA = 'asd';
-$userName = 'Igor';
+$userName = "Igor";
 
-function showSomething()
+function show_something()
 {
     return 'SOMETHING';
 }
